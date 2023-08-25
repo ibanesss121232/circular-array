@@ -1,5 +1,7 @@
 # Circular - Array
-El circular array es un estructura de datos que simula un array de forma circular, esto en alguno de sus metodos puede ser muy eficiente y comodo.
+El circular array es un estructura de datos que
+simula un array de forma circular, esto en alguno de sus metodos 
+puede ser muy eficiente y comodo.
 
 
 
